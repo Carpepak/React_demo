@@ -1,0 +1,17 @@
+.logo {
+  color: #e4e4e4;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.content {
+  padding: 1rem;
+}
+
+.table {
+  width: 200px;
+}

@@ -1,0 +1,13 @@
+.ctn {
+  display: flex;
+  align-items:flex-start;
+}
+
+.ctn-action {
+  align-items: center;
+  margin-top: .8rem;
+}
+
+.ctn-action > button {
+  margin-left: .5rem;
+}
